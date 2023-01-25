@@ -5,3 +5,24 @@ Poštovane koleginice i kolege,
           O suštini obuke se možete detaljnije informisati u <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf" class="text-primary">stručnom radu</a> objavljenom na konferenciji Technics and Informatics in Education - <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/index.php?lang=sr" class="text-primary">TIE2022</a>.
           
           
+**Др Милош Папић, ванр. проф.**<br/>
+:office: Факултет техничких наука у Чачку <br/>
+:computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
+:scroll: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
+:scroll: https://www.linkedin.com/in/milospapic/ <br/>
+:scroll: https://www.facebook.com/miloshpapitj/ <br/>
+:e-mail: milos.papic@ftn.kg.ac.rs <br/>
+
+**Далибор Чукљевић, професор технике и информатике**<br/>
+:office: OШ "Др Драгиша Мишовић" у Чачку <br/>
+:computer: https://www.osdragisamisovic.edu.rs/ <br/>
+:scroll: https://www.linkedin.com/in/daliborcukljevic/ <br/>
+:scroll: https://www.facebook.com/daliborcukljevic/ <br/>
+:e-mail: prof.dalibor@gmail.com <br/>
+
+**Зоран Луковић, професор технике и информатике**<br/>
+:office: OШ "Др Драгиша Мишовић" у Чачку <br/>
+:computer: https://www.osdragisamisovic.edu.rs/ <br/>
+:scroll: https://www.linkedin.com/in/zoranlukovic/ <br/>
+:scroll: https://www.facebook.com/ POPUNITI <br/>
+:e-mail: zoran.lukovic@gmail.com <br/>
