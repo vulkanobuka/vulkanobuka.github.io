@@ -1,32 +1,6 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+Poštovane koleginice i kolege,
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
-
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
-
----
-```
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
-
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+Nastava programiranja u oblaku: paradigma novog doba</i> je usko specijalizovana obuka za nastavnike informatike i računarstva i odnosi se na gradivo koje se obrađuje u 8. razredu osnovne škole, kao i u u 2. godini gimnazije. Akreditovana je kod Zavoda za unapređivanje obrazovanja i vaspitanja (kataloški broj <a href="https://zuov-katalog.rs/index.php?action=page/catalog/view&id=959" class="text-primary">376</a>).
+          Organizator obuke je udruženje za edukaciju i obrazovanje <a href="https://www.vulkanznanje.rs/" class="text-primary">Vulkan znanje</a>. Autori i realizatori su ujedno i autori udžbenika i konstruktorskih kompleta za predmete <a href="https://www.vulkanznanje.rs/a/79184741-7ee8-49d3-8f53-d39ecd87cf27/Milos-Papic-Dalibor-Cukljevic.aspx" class="text-primary">Informatika i računarstvo</a> i <a href="https://www.vulkanznanje.rs/a/de9139f1-071a-4480-96c0-c459a61a79a0/Zoran-Lukovic.aspx" class="text-primary">Tehnika i tehnologija</a> pri izdavačkoj kući Vulkan znanje.
+          O suštini obuke se možete detaljnije informisati u <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf" class="text-primary">stručnom radu</a> objavljenom na konferenciji Technics and Informatics in Education - <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/index.php?lang=sr" class="text-primary">TIE2022</a>.
+          
