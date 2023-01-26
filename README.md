@@ -24,5 +24,5 @@ Poštovane koleginice i kolege,
 :office: OШ "Др Драгиша Мишовић" у Чачку <br/>
 :computer: https://www.osdragisamisovic.edu.rs/ <br/>
 :scroll: https://www.linkedin.com/in/zoranlukovic/ <br/>
-:scroll: https://www.facebook.com/ POPUNITI <br/>
+:scroll: https://www.facebook.com/zoran.lukovic.71/ <br/>
 :e-mail: zoran.lukovic@gmail.com <br/>
