@@ -5,7 +5,7 @@ Poštovane koleginice i kolege,
           O suštini obuke se možete detaljnije informisati u <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/docs/papers/S802_65.pdf" class="text-primary">stručnom radu</a> objavljenom na konferenciji Technics and Informatics in Education - <a href="http://www.ftn.kg.ac.rs/konferencije/TIE2022/index.php?lang=sr" class="text-primary">TIE2022</a>.
           
           
-**Др Милош Папић, ванр. проф.**<br/>
+**Проф. др Милош Папић**<br/>
 :office: Факултет техничких наука у Чачку <br/>
 :computer: http://www.ftn.kg.ac.rs/milos.papic <br/>
 :scroll: https://www.researchgate.net/profile/Milos-Papic-2 <br/>
